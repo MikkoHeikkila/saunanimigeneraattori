@@ -22,7 +22,9 @@
 .App-link {
   color: #61dafb;
 }
-
+.text-right{
+  text-align: right;
+}
 h2{
   margin-bottom: 0;
 }
