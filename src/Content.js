@@ -59,10 +59,7 @@ function Content() {
     return (
       <div>
         <div className="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
-        <p>
-        Generointi valmis.<br/>
-        Renderöidään tulosta.
-        </p>
+        <p>Renderöidään tulosta...</p>
       </div>
     );
   } 
